@@ -31,7 +31,10 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🌱 I’m currently learning cloud computing
+- 👯 I’m looking to collaborate on MLOps and Datascience projects.
+
+- :zap: In my free time, i meditate.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-batubo/)
 
@@ -60,7 +63,6 @@ I am a Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Batubo&layout=compact&theme=vision-friendly-dark)](https://github.com/Samuel-Batubo/github-readme-stats)
 
-### Hi there 👋
 
 <!--
 **Samuel-Batubo/Samuel-Batubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
